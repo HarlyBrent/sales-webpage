@@ -1,2 +1,2 @@
 # sales-webpage
-education only
+for education only
