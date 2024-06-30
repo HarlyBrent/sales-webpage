@@ -1,0 +1,68 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.bg {
+    background-image: url('Fresh vegetable2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px;
+    color:1D22C4;
+}
+img[src="Brent's Fresh Vegetables.png"] {
+  float: left;
+  width: 120px;
+  height: 120px;
+}
+
+img[src="Brent's Fresh Vegetables Logo.png"] {
+  width: 940px;
+  height: 800px
+}
+
+section {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img[src="Brent's Fresh Vegetables Logo2.png"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px;
+    width: 300px;  float: Center;
+}
+
+img[src="Owner.png"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+    width: 250px;
+}
